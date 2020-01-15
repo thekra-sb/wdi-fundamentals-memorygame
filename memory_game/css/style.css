@@ -96,3 +96,16 @@ footer {
 	color: #F15B31;
 	font-weight: 700;
 }
+
+table{
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #0D2C40;
+	color: white; 
+	text-transform: uppercase;
+	font-family: Raleway;
+	font-size: 14px;
+	letter-spacing: 0.08em;
+	font-weight: 500;
+}
